@@ -31,10 +31,3 @@ The table will be generated. In this service use [Flyway](https://flywaydb.org/)
 If you want to access resources about these services you can see them at the link [Local Environment](http://localhost:8080/swagger-ui.html). For Example:
 
 ![Screenshot 2023-07-20 070953](https://github.com/fahmikudo/job-webservices/assets/20161826/41bea5fd-2c52-4da2-bd25-8b19a3f7e5a6)
-					},
-					"response": []
-				}
-			]
-		}
-	]
-}
