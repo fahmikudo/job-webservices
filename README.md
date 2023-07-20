@@ -26,6 +26,13 @@ mvn spring-boot:run
 
 The table will be generated. In this service use [Flyway](https://flywaydb.org/) for the migration tool.
 
+## Credential for access resources
+
+username : admintest
+
+password : admin
+
+
 ## Get Information All Resources
 
 If you want to access resources about these services you can see them at the link [Local Environment](http://localhost:8080/swagger-ui.html). For Example:
